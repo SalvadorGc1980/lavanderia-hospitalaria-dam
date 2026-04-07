@@ -22,14 +22,15 @@ Aplicación de escritorio desarrollada en **Java** para la gestión de entregas 
 
 Hay dos formas de hacerlo, la primera mediante el ejecutable:
 
-1. Descarga el ejecutable LavanderíaHospitalaria.exe.
-2. Ejecútalo y se abrirá la aplicación de escritorio.
+1. Descargar el archivo Ejecutable.rar.
+2. Descomprimir y ejecutar LavanderíaHospitalaria.exe.
 
 La segunda mediante Apache NetBeans:
 
 1. Descargar el proyecto.
-2. Abrirlo con **Apache NetBeans**.
-3. Ejecutar la aplicación.
+2. descomprimir con WinRar.
+3. Abrirlo con **Apache NetBeans**.
+4. Ejecutar la aplicación.
 
 ## Autor
 
