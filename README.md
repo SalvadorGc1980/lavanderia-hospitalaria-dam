@@ -24,6 +24,9 @@ Hay dos formas de hacerlo, la primera mediante el ejecutable:
 
 1. Descargar el archivo Ejecutable.rar.
 2. Descomprimir y ejecutar LavanderíaHospitalaria.exe.
+3. Al ejecutarlo pedirá el usuario y la contraseña adjuntada en este mismo documento.
+   Usuario: admin.
+   Contraseña: admin.
 
 La segunda mediante Apache NetBeans:
 
@@ -31,6 +34,9 @@ La segunda mediante Apache NetBeans:
 2. descomprimir con WinRar.
 3. Abrirlo con **Apache NetBeans**.
 4. Ejecutar la aplicación.
+5. Al ejecutarlo pedirá el usuario y la contraseña adjuntada en este mismo documento.
+   Usuario: admin.
+   Contraseña: admin.
 
 ## Autor
 
