@@ -2,14 +2,20 @@
 
 Aplicación de escritorio desarrollada en **Java** para la gestión de entregas de ropa hospitalaria en diferentes plantas y unidades de un hospital.
 
+Este proyecto forma parte del módulo **Proyecto Intermodular** del ciclo **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+
+---
+
 ## Funcionalidades
 
-- Inicio de sesión de usuarios
-- Registro de entregas de ropa hospitalaria
-- Consulta del historial de entregas
-- Eliminación de registros incorrectos
-- Exportación del historial a documento RTF
-- Visualización de estadísticas de uso
+- Inicio de sesión de usuarios.
+- Registro de entregas de ropa hospitalaria.
+- Consulta del historial de entregas.
+- Eliminación de registros incorrectos.
+- Exportación del historial a documento RTF.
+- Visualización de estadísticas de uso.
+
+---
 
 ## Tecnologías utilizadas
 
@@ -18,26 +24,28 @@ Aplicación de escritorio desarrollada en **Java** para la gestión de entregas 
 - SQLite
 - Apache NetBeans IDE
 
+---
+
 ## Ejecución del proyecto
 
-Hay dos formas de hacerlo, la primera mediante el ejecutable:
+El proyecto puede ejecutarse de dos formas:
 
-1. Descargar el archivo Ejecutable.rar.
-2. Descomprimir y ejecutar LavanderíaHospitalaria.exe.
-3. Al ejecutarlo pedirá el usuario y la contraseña adjuntada en este mismo documento.
-4. Usuario: admin.
-5. Contraseña: admin.
+---
 
-La segunda mediante Apache NetBeans:
+### Opción 1: ejecución mediante archivo ejecutable
 
-1. Descargar el proyecto.
-2. descomprimir con WinRar.
-3. Abrirlo con **Apache NetBeans**.
-4. Ejecutar la aplicación.
-5. Al ejecutarlo pedirá el usuario y la contraseña adjuntada en este mismo documento.
-6. Usuario: admin.
-7. Contraseña: admin.
+1. Descargar el archivo `LavanderiaHospitalariaExe.rar`.
+2. Descomprimir el archivo.
+3. Ejecutar `LavanderíaHospitalaria.exe`.
+4. Iniciar sesión con las credenciales de prueba.
 
 ## Autor
 
 Proyecto desarrollado por **Salvador González Carnero** para el módulo **Proyecto Intermodular del ciclo DAM**.
+
+#### Credenciales de acceso
+
+```text
+Usuario: admin
+Contraseña: admin
+
