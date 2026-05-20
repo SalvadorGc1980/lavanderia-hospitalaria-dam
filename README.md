@@ -22,30 +22,23 @@ Este proyecto forma parte del módulo **Proyecto Intermodular** del ciclo **Desa
 - Java
 - Java Swing
 - SQLite
+- Launch4j
 - Apache NetBeans IDE
 
 ---
 
 ## Ejecución del proyecto
 
-El proyecto puede ejecutarse de dos formas:
-
----
-
-### Opción 1: ejecución mediante archivo ejecutable
+Para ejecutar la aplicación:
 
 1. Descargar el archivo `LavanderiaHospitalariaExe.rar`.
 2. Descomprimir el archivo.
-3. Ejecutar `LavanderíaHospitalaria.exe`.
-4. Iniciar sesión con las credenciales de prueba.
+3. Abrir la carpeta descomprimida.
+4. Ejecutar `LavanderiaHospitalaria.exe`.
+5. Iniciar sesión con las credenciales de prueba.
 
-## Autor
-
-Proyecto desarrollado por **Salvador González Carnero** para el módulo **Proyecto Intermodular del ciclo DAM**.
-
-#### Credenciales de acceso
+### Credenciales de acceso
 
 ```text
 Usuario: admin
 Contraseña: admin
-
